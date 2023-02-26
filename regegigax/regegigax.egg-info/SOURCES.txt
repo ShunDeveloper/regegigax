@@ -1,0 +1,11 @@
+README.md
+setup.cfg
+setup.py
+regegigax/__init__.py
+regegigax/main.py
+regegigax/regegigax.egg-info/PKG-INFO
+regegigax/regegigax.egg-info/SOURCES.txt
+regegigax/regegigax.egg-info/dependency_links.txt
+regegigax/regegigax.egg-info/not-zip-safe
+regegigax/regegigax.egg-info/requires.txt
+regegigax/regegigax.egg-info/top_level.txt

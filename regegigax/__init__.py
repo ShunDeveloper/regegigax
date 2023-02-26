@@ -1,1 +1,1 @@
-from regegigax.regegigax import *
+from regegigax import *

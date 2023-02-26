@@ -17,7 +17,7 @@ setup(
     description="パッケージの説明",
     author="ShunDeveloper",
     url="https://github.com/ShunDeveloper/regegigax",
-    packages=find_packages("regegigax"),
+    packages=find_packages("src"),
     package_dir={"": "regegigax"},
     py_modules=[splitext(basename(path))[0]
                 for path in glob('regegigax/*.py')],
